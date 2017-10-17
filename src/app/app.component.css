@@ -1,0 +1,17 @@
+body {
+  background: #dddddd;
+}
+
+.galery {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.listFinished {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 60px;
+  color: darkred;
+}
